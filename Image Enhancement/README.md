@@ -38,9 +38,9 @@ Smart Processing Pipeline Real-time Interactive GUI
 4. Professional Results: Suitable for academic and industrial use
 
 
-<img width="1323" height="505" alt="Screenshot 2025-10-22 140204" src="https://github.com/user-attachments/assets/21d35bfc-a8a5-447f-9e69-1fb7291089eb" />
-<img width="1325" height="503" alt="Screenshot 2025-10-22 140657" src="https://github.com/user-attachments/assets/3e9e6ff3-e15f-4512-a046-514f106b99bb" />
-<img width="1321" height="498" alt="Screenshot 2025-10-22 140500" src="https://github.com/user-attachments/assets/8d0130e2-1107-4497-9c3d-768b0f567d78" />
-<img width="1327" height="490" alt="Screenshot 2025-10-22 141747" src="https://github.com/user-attachments/assets/ad320610-2e4a-45e9-8544-758df2ae4ee5" />
-<img width="1330" height="507" alt="Screenshot 2025-10-22 135649" src="https://github.com/user-attachments/assets/ad0f8057-c389-4091-918f-f832e63dfbe1" />
-<img width="1325" height="504" alt="Screenshot 2025-10-22 140101" src="https://github.com/user-attachments/assets/b3813cea-8662-47c4-bde9-65a94d049b17" />
+![Logo AgroAI](https://github.com/zooyyy/image/blob/main/Image%20Enhancement/1.png)
+![Logo AgroAI](https://github.com/zooyyy/image/blob/main/Image%20Enhancement/2.png)
+![Logo AgroAI](https://github.com/zooyyy/image/blob/main/Image%20Enhancement/3.png)
+![Logo AgroAI](https://github.com/zooyyy/image/blob/main/Image%20Enhancement/4.png)
+![Logo AgroAI](https://github.com/zooyyy/image/blob/main/Image%20Enhancement/5.png)
+![Logo AgroAI](https://github.com/zooyyy/image/blob/main/Image%20Enhancement/6.png)
